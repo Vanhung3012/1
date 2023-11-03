@@ -1,0 +1,11 @@
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\bin\Debug\Server.exe.config
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\bin\Debug\Server.exe
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\bin\Debug\Server.pdb
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\bin\Debug\ThuVien.dll
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\bin\Debug\ThuVien.pdb
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\obj\Debug\Server.csproj.CopyComplete
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\obj\Debug\Server.exe
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\Server\obj\Debug\Server.pdb

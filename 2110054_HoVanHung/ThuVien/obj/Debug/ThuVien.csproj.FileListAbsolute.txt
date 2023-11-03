@@ -1,0 +1,6 @@
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\ThuVien\bin\Debug\ThuVien.dll
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\ThuVien\bin\Debug\ThuVien.pdb
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\ThuVien\obj\Debug\ThuVien.csproj.AssemblyReference.cache
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\ThuVien\obj\Debug\ThuVien.csproj.CoreCompileInputs.cache
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\ThuVien\obj\Debug\ThuVien.dll
+E:\Máy tính\HỌC KỲ I NĂM 3\LẬP TRÌNH MẠNG\2110054_HoVanHung\ThuVien\obj\Debug\ThuVien.pdb
